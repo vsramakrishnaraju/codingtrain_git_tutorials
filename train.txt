@@ -17,3 +17,5 @@ master branch edit
 master
 
 edit from fork account 
+
+this is the issue number #6 closing 
