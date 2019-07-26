@@ -25,3 +25,6 @@ resloved 1st issue #4
 
 this fixes #4
 master
+
+
+this closes the issue #5
