@@ -19,3 +19,5 @@ master
 edit from fork account 
 
 resloved 1st issue #4
+
+this fixes #4
