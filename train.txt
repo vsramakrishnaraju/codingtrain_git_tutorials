@@ -17,3 +17,5 @@ master branch edit
 master
 
 edit from fork account 
+
+resloved 1st issue #4
