@@ -18,4 +18,10 @@ master
 
 edit from fork account 
 
+master
 this is the issue number #6 closing 
+=======
+resloved 1st issue #4
+
+this fixes #4
+master
