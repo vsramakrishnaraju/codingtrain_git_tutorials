@@ -10,4 +10,8 @@ editing 2
 
 branch 1 edit 
 
+branch-2
 branch 2 edit
+=======
+master branch edit 
+master
